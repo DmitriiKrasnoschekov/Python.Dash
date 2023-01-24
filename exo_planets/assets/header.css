@@ -1,0 +1,19 @@
+.app-header {
+    height: 100px;
+    background-color: #f7f7f7;
+    font-style: normal;
+    font-weight: normal;
+    border-bottom: thin lightgray solid;
+}
+
+.app-referral {
+    display: flex;
+    position: absolute;
+    top: 10;
+}
+
+.app-body {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px
+}
